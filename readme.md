@@ -1,2 +1,2 @@
-## welcome to git b22222222!
-changes made from b2
+## Hello Git !
+This is just a test 
