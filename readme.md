@@ -1,2 +1,2 @@
 ## hello git !!
-This are my modifications !
+These are my modifications !
