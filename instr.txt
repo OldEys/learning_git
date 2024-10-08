@@ -1,0 +1,8 @@
+git branch <name>
+<modify>
+git push --set-upstream or -u <origin> <branchname>
+pull request base main compare <branchname>
+confirm merge
+detele/no old branch
+git checkout main
+git pull
